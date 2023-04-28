@@ -2,10 +2,55 @@
 
 .bright-orange {
   background-color: $bright-orange;
+  color: $bright-orange;
 }
+
 .dark-cyan {
   background-color: $dark-cyan;
+  color: $dark-cyan;
 }
+
 .very-dark-cyan {
   background-color: $very-dark-cyan;
+  color: $very-dark-cyan;
+}
+
+.column {
+  width: 306px;
+  padding: 48px;
+}
+
+.icon {
+  margin-bottom: 39px;
+}
+
+.header {
+  font-family: 'big_shoulders_display';
+  font-size: 40px;
+  text-transform: uppercase;
+  color: $very-light-gray;
+  margin-bottom: 27px;
+}
+
+.text {
+  line-height: 25px;
+  color: $transparent-white;
+  margin-bottom: 82px;
+}
+
+.btn {
+  width: 146px;
+  height: 48px;
+  border-radius: 50px;
+  background-color: $very-light-gray;
+  font-size: 16px;
+  font-weight: 600;
+  color: inherit;
+
+  &:hover {
+    cursor: pointer;
+    background-color: inherit;
+    color: $very-light-gray;
+    border: 2px solid $very-light-gray;
+  }
 }
