@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/newbie-3-column-preview-card-component/static/css/main.f4901cd4.css",
+    "main.js": "/newbie-3-column-preview-card-component/static/js/main.ea6c1a68.js",
+    "static/media/bigshouldersdisplay-bold.ttf": "/newbie-3-column-preview-card-component/static/media/bigshouldersdisplay-bold.750cc3d250ac1f58ead8.ttf",
+    "static/media/lexenddeca-regular.ttf": "/newbie-3-column-preview-card-component/static/media/lexenddeca-regular.44c2140a3c416ff5d770.ttf",
+    "static/media/bigshouldersdisplay-bold.woff": "/newbie-3-column-preview-card-component/static/media/bigshouldersdisplay-bold.601aa9ea6f90fa490d37.woff",
+    "static/media/lexenddeca-regular.woff": "/newbie-3-column-preview-card-component/static/media/lexenddeca-regular.99587377e99dde205c0a.woff",
+    "static/media/bigshouldersdisplay-bold.eot": "/newbie-3-column-preview-card-component/static/media/bigshouldersdisplay-bold.615f984ea8d9bec481b9.eot",
+    "static/media/lexenddeca-regular.eot": "/newbie-3-column-preview-card-component/static/media/lexenddeca-regular.27b90469f5035ad9190c.eot",
+    "static/media/bigshouldersdisplay-bold.woff2": "/newbie-3-column-preview-card-component/static/media/bigshouldersdisplay-bold.3be87bf2efb2a636d582.woff2",
+    "static/media/lexenddeca-regular.woff2": "/newbie-3-column-preview-card-component/static/media/lexenddeca-regular.65d5c4ca9928244c24c8.woff2",
+    "static/media/icon-luxury.svg": "/newbie-3-column-preview-card-component/static/media/icon-luxury.7d6e1aefdc39c4742fbb039e7f97a503.svg",
+    "static/media/icon-suvs.svg": "/newbie-3-column-preview-card-component/static/media/icon-suvs.058b664c311101933ebda84111ddd9b6.svg",
+    "static/media/icon-sedans.svg": "/newbie-3-column-preview-card-component/static/media/icon-sedans.e794502801c486bcffc3513f6f03141e.svg",
+    "index.html": "/newbie-3-column-preview-card-component/index.html",
+    "main.f4901cd4.css.map": "/newbie-3-column-preview-card-component/static/css/main.f4901cd4.css.map",
+    "main.ea6c1a68.js.map": "/newbie-3-column-preview-card-component/static/js/main.ea6c1a68.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f4901cd4.css",
+    "static/js/main.ea6c1a68.js"
+  ]
+}
