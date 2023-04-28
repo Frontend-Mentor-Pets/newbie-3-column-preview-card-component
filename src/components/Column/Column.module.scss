@@ -18,6 +18,10 @@
 .column {
   width: 306px;
   padding: 48px;
+
+  @media (max-width: 945px) {
+    width: 325px;
+  }
 }
 
 .icon {
@@ -36,6 +40,10 @@
   line-height: 25px;
   color: $transparent-white;
   margin-bottom: 82px;
+
+  @media (max-width: 945px) {
+    margin-bottom: 23px;
+  }
 }
 
 .btn {

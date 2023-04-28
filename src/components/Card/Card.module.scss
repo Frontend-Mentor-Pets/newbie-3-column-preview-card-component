@@ -9,4 +9,9 @@
   border-radius: 8px;
   overflow: hidden;
   margin-top: 171px;
+
+  @media (max-width: 945px) {
+    flex-direction: column;
+    margin-top: 89px;
+  }
 }
