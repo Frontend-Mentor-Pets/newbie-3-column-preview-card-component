@@ -1,0 +1,13 @@
+@import './colors.scss';
+@import './fonts.scss';
+@import './reset.scss';
+
+body {
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-family: 'lexend_deca', sans-serif;
+  font-size: 15px;
+  color: $transparent-white;
+  background-color: $very-light-gray;
+}
