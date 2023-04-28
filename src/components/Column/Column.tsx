@@ -15,7 +15,7 @@ const Column: FC<ColumnProps> = ({ icon, header, text, color }) => {
         <img src={icon} alt='icon' />
       </div>
       <h2 className={styles.header}>{header}</h2>
-      <p className={styles.text}>{}text</p>
+      <p className={styles.text}>{text}</p>
       <button className={styles.btn}>Learn More</button>
     </div>
   );
